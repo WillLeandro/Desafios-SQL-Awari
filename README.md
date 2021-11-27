@@ -3,8 +3,9 @@
 
 Foi utilizado o banco de dados da olist uma empresa de ecommerce https://olist.com/pt-br/sobre-nos
 
-Fonte do banco de dados.
-[Clicando aqui](https://www.kaggle.com/olistbr/brazilian-ecommerce
+Fonte do banco de dados
+
+https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 ## Schema do banco de dados
 

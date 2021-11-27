@@ -52,7 +52,7 @@ Cada desafio são exercícios de diferentes níveis de dificuldade em SQL. Eles 
 
 ### Desafio 4
 
-**Exercício 1:** Crie uma view (SELLER_STATS) para mostrar por fornecedor, a quantidade de itens enviados, o tempo médio de postagem após a aprovação da compra, a quantidade total de pedidos de cada Fornecedor, note que trabalharemos na mesma query com 2 granularidades diferentes. [Query](https://github.com/andressacastrod/AwariSQLChallenges/blob/main/Desafio4/Exercicio%20-%201.sql)
+**Exercício 1:** Crie uma view (SELLER_STATS) para mostrar por fornecedor, a quantidade de itens enviados, o tempo médio de postagem após a aprovação da compra, a quantidade total de pedidos de cada Fornecedor, note que trabalharemos na mesma query com 2 granularidades diferentes. [Query](url)
 
-**Exercício 2:** Queremos dar um cupom de 10% do valor da última compra do cliente. Porém os clientes elegíveis a este cupom devem ter feito uma compra anterior a última (a partir da data de aprovação do pedido) que tenha sido maior ou igual o valor da última compra. Crie uma querie que retorne os valores dos cupons para cada um dos clientes elegíveis. [Query](https://github.com/andressacastrod/AwariSQLChallenges/blob/main/Desafio4/Exercicio%20-%202.sql)
+**Exercício 2:** Queremos dar um cupom de 10% do valor da última compra do cliente. Porém os clientes elegíveis a este cupom devem ter feito uma compra anterior a última (a partir da data de aprovação do pedido) que tenha sido maior ou igual o valor da última compra. Crie uma querie que retorne os valores dos cupons para cada um dos clientes elegíveis. [Query](url)
 
